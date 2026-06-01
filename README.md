@@ -1,4 +1,4 @@
-# codesoft_task4
+# codsoft_task4
 SPAM SMS DETECTION
 Model that can classify SMS messages as spam or
 legitimate. Use techniques like TF-IDF or word embeddings with
